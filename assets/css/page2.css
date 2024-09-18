@@ -1,3 +1,8 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(53, 60, 66);
+}
+p{
+    width: 200px;
+    background-color: rgb(194, 122, 27);
+    color: rgb(201, 187, 187);
 }
